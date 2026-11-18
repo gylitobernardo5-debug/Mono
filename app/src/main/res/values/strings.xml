@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">G-VPN</string>
+    <string name="app_subtitle">EXTREME SPEED ENGINE V2</string>
+    <string name="btn_connect">LIGAR</string>
+    <string name="btn_disconnect">DESLIGAR</string>
+    <string name="tab_tls_sni">TLS / MULTI-SNI</string>
+    <string name="tab_ssh_dropbear">SSH / DROPBEAR</string>
+    <string name="tab_dev_terminal">&gt;_ TERMINAL DEV</string>
+    <string name="mode_auto">AUTO</string>
+    <string name="mode_manual_sni">MANUAL SNI</string>
+    <string name="mode_ssh_dropbear">SSH DROPBEAR</string>
+    <string name="notif_channel_name">Túnel G-VPN</string>
+    <string name="notif_channel_desc">Estado em tempo real do túnel G-VPN Extreme Speed</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "G-VPN",
+  "description": "VPN Android com Multi-SNI TLS, SSH Dropbear exclusivo e motor Extreme Speed V2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
